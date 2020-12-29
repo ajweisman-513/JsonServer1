@@ -1,8 +1,5 @@
 metrics: [
     {
-      "_location":"EWC - Southpark Meadows - 0224",
-      "_focusArray":[
-        {
           "Associate Code":"Luis","Associate Job Name":"Guest Service Associate","Associate Name":"Luis Camacho","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Pkg $/ Ticket #","Measure Values":"11.57","_kpiWeight":50,"_Target":"42.00","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"Offers at least 2 wax pass rebuttals","_Priority":-3622,"_id":29
         },
         {
@@ -16,12 +13,7 @@ metrics: [
         },
         {              
           "Associate Code":"LydiaB","Associate Job Name":"Blue","Associate Name":"Lydia Baxter","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"7.70","_kpiWeight":7,"_Target":"38.00","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"Follows the 4-step waxing process","_Priority":-558,"_id":31
-        }
-      ]
-    },
-    {
-      "_location":"EWC - Cypress - 0349",
-      "_focusArray":[
+        },
         {
           "Associate Code":"151-1041009E-282","Associate Job Name":"Guest Service Associate","Associate Name":"Mandi Urteaga","Center":"EWC - Cypress - 0349","date":"Q4-2020","Measure Names":"Pkg $/ Ticket #","Measure Values":"20.81","_kpiWeight":50,"_Target":"42.00","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"Presents wax passes according to process","_Priority":-2522,"_id":52
         },
@@ -36,20 +28,6 @@ metrics: [
         },
         {
           "Associate Code":"Athena","Associate Job Name":"Guest Service Associate","Associate Name":"Athena Sturgeon","Center":"EWC - Cypress - 0349","date":"Q4-2020","Measure Names":"Prebook %","Measure Values":"0.14","_kpiWeight":6,"_Target":"0.60","_kpiDirection":"ascend","_keyDriver":"Tickets","_Recommended_Action":"Recommends proper frequency in lobby","_Priority":-457,"_id":68
-        }
-      ]
-    },
-    {
-      "_location":"EWC - Houston - Bunker Hill - 0053",
-      "_focusArray":[
-        {
-          "Associate Code":"315-1050660E-33","Associate Job Name":"Guest Service Associate","Associate Name":"Kayla Alfaro","Center":"EWC - Houston - Bunker Hill - 0053","date":"Q4-2020","Measure Names":"Pkg $/ Ticket #","Measure Values":"35.39","_kpiWeight":50,"_Target":"42.00","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"Presents wax passes according to process","_Priority":-786,"_id":86
-        },
-        {
-          "Associate Code":"Sjohnson0053","Associate Job Name":"Guest Service Associate","Associate Name":"Shawn Johnson","Center":"EWC - Houston - Bunker Hill - 0053","date":"Q4-2020","Measure Names":"Prebook %","Measure Values":"0.07","_kpiWeight":6,"_Target":"0.60","_kpiDirection":"ascend","_keyDriver":"Tickets","_Recommended_Action":"Promotes referral program","_Priority":-528,"_id":102
-        },
-        {
-          "Associate Code":"332-3452E-33","Associate Job Name":"Guest Service Associate","Associate Name":"Karla Perez","Center":"EWC - Houston - Bunker Hill - 0053","date":"Q4-2020","Measure Names":"Prebook %","Measure Values":"0.21","_kpiWeight":6,"_Target":"0.60","_kpiDirection":"ascend","_keyDriver":"Tickets","_Recommended_Action":"Recommends proper frequency in lobby","_Priority":-392,"_id":91
         },
         {
           "Associate Code":"315-1050660E-33","Associate Job Name":"Guest Service Associate","Associate Name":"Kayla Alfaro","Center":"EWC - Houston - Bunker Hill - 0053","date":"Q4-2020","Measure Names":"Prebook %","Measure Values":"0.45","_kpiWeight":6,"_Target":"0.60","_kpiDirection":"ascend","_keyDriver":"Tickets","_Recommended_Action":"Promotes referral program","_Priority":-151,"_id":85
@@ -58,5 +36,3 @@ metrics: [
           "Associate Code":"315-1050660E-33","Associate Job Name":"Guest Service Associate","Associate Name":"Kayla Alfaro","Center":"EWC - Houston - Bunker Hill - 0053","date":"Q4-2020","Measure Names":"WaxPass Conv.%","Measure Values":"0.17","_kpiWeight":8,"_Target":"0.20","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"Presents wax passes according to process","_Priority":-133,"_id":87
         },
       ]
-    }
-  ]
