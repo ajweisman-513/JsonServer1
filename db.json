@@ -1,4 +1,4 @@
-metrics: [
+[
     {
           "Associate Code":"Luis","Associate Job Name":"Guest Service Associate","Associate Name":"Luis Camacho","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Pkg $/ Ticket #","Measure Values":"11.57","_kpiWeight":50,"_Target":"42.00","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"Offers at least 2 wax pass rebuttals","_Priority":-3622,"_id":29
         },
