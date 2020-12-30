@@ -71,30 +71,7 @@
                                     "_kpiDirection":"ascend",
                                     "_keyDriver":"Services","_Recommended_Action":"Adheres to service timing standards",
                                     "_Priority":-106,"_id":10
-      },
-      {
-                                      "Associate Code":"246-1043588E-324","Associate Job Name":"Red","Associate Name":"Melanie Rojas",
-                                                                "Center":"EWC - Southpark Meadows - 0224",
-        "date":"Q4-2020","Measure Names":"SPT","Measure Values":"1.49","_kpiWeight":8,"_Target":"1.60","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"Adheres to service timing standards","_Priority":-54,"_id":8},{"Associate Code":"JessicaD","Associate Job Name":"White","Associate Name":"Jessica Duran","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"35.02","_kpiWeight":7,"_Target":"38.00","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"Offers add-ons prior to service","_Priority":-54,"_id":26},{"Associate Code":"JessicaD","Associate Job Name":"White","Associate Name":"Jessica Duran","Center":"EWC - Southpark Meadows - 0224",
-        "date":"Q4-2020","Measure Names":"SPT","Measure Values":"1.50","_kpiWeight":8,"_Target":"1.60","_kpiDirection":"ascend",
-        "_keyDriver":"Services","_Recommended_Action":"Offers add-ons prior to service",
-        "_Priority":-50,"_id":27},{"Associate Code":"RebeccaO",
-                                   "Associate Job Name":"White","Associate Name":"Rebecca Olivas","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"35.66","_kpiWeight":7,"_Target":"38.00",
-                                   "_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"",
-                                   "_Priority":-43,"_id":36},{"Associate Code":"Luis","Associate Job Name":"Guest Service Associate","Associate Name":"Luis Camacho","Center":"EWC - Southpark Meadows - 0224",
-        "date":"Q4-2020","Measure Names":"Prebook %","Measure Values":"0.58","_kpiWeight":6,"_Target":"0.60",
-        "_kpiDirection":"ascend","_keyDriver":"Tickets",
-        "_Recommended_Action":"","_Priority":-16,"_id":28},{"Associate Code":"252-1045371E-324","Associate Job Name":"Orange","Associate Name":"Ilyssa Del Busto","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"37.48","_kpiWeight":7,"_Target":"38.00","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"","_Priority":-9,"_id":9},{"Associate Code":"Cici","Associate Job Name":"Blue",
-        "Associate Name":"Cierra Jaramillo","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"37.65","_kpiWeight":7,"_Target":"38.00","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"","_Priority":-6,"_id":21},{"Associate Code":"HannahL","Associate Job Name":"Guest Service Associate",
-        "Associate Name":"HannahL Luna","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"WaxPass Conv.%",
-        "Measure Values":"0.21","_kpiWeight":8,"_Target":"0.20","_kpiDirection":"ascend","_keyDriver":"Packages","_Recommended_Action":"",
-        "_Priority":32,"_id":25},{
-          "Associate Code":"246-1043588E-324","Associate Job Name":"Red",
-          "Associate Name":"Melanie Rojas","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020",
-          "Measure Names":"Service $ / Ticket #","Measure Values":"40.17","_kpiWeight":7,"_Target":"38.00",
-          "_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"","_Priority":40,"_id":7},{
-            "Associate Code":"BethA","Associate Job Name":"White","Associate Name":"Beth Adorno","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"Service $ / Ticket #","Measure Values":"40.94","_kpiWeight":7,"_Target":"38.00","_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"","_Priority":55,"_id":16},{"Associate Code":"Antaziah","Associate Job Name":"Blue","Associate Name":"Antaziah Lloyd","Center":"EWC - Southpark Meadows - 0224","date":"Q4-2020","Measure Names":"SPT","Measure Values":"1.77","_kpiWeight":8,"_Target":"1.60",
-            "_kpiDirection":"ascend","_keyDriver":"Services","_Recommended_Action":"","_Priority":85,"_id":15}]}]
+      }]}]
       
       
       
